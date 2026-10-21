@@ -36,7 +36,3 @@ Os dados de demonstração são fictícios. Para operação real, implemente pro
 ## Banco e segurança
 
 O SQLite é criado no diretório `.netwatch` do perfil do usuário. O esquema inicial contém switches, eventos e auditoria local. Não armazene credenciais nesta versão. A limpeza CLEAR LOG exclui apenas eventos da aplicação e preserva a auditoria.
-
-## Licença
-
-MIT. Consulte [LICENSE](LICENSE).
