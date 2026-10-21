@@ -1,0 +1,9 @@
+* { -fx-font-family: "Segoe UI", sans-serif; }
+.root { -fx-background-color: #f3f6fa; }
+.header { -fx-background-color: #111d33; -fx-alignment: center-left; }
+.brand { -fx-text-fill: #f8fafc; -fx-font-size: 18px; -fx-font-weight: bold; }
+.mode { -fx-text-fill: #89dfbd; -fx-font-size: 13px; }
+.summary { -fx-background-color: white; -fx-padding: 18px; -fx-background-radius: 10px; -fx-font-weight: bold; -fx-text-fill: #253451; }
+.button { -fx-background-color: #193c68; -fx-text-fill: white; -fx-padding: 9px 15px; -fx-background-radius: 6px; }
+.button:hover { -fx-background-color: #24558f; }
+.table-view, .chart { -fx-background-color: white; -fx-background-radius: 8px; }
